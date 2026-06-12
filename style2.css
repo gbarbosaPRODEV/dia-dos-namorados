@@ -61,8 +61,6 @@ button{
     cursor:pointer;
 }
 
-/* POPUP */
-
 .popup{
     display:none;
     position:fixed;
@@ -109,7 +107,7 @@ button{
 
 .xayah-bg{
     background:linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),
-    url("xayahjuno.png");
+    url("xayahjuno.jpg");
     background-size:cover;
 }
 
